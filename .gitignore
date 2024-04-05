@@ -1,2 +1,5 @@
-/target
-/build
+**/test*
+**/exp*
+**/out*
+**/err*
+p.out
